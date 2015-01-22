@@ -6,7 +6,7 @@ import java.util.Scanner;
 // Penser à changer les fonctions utilisant pierres et remplacer par cases
 // Pour la capture de pions, on recherche les cases de couleur différentes
 // Puis avec recherche on regarde si la case a des voisins vides et sinon on checke si elle a des voisins de meme couleur, etc...
-
+// 
 //Setters
 /**
  *
