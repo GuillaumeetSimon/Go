@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 package go2;
-//guillaume assogba
+//guillaume 
 import java.util.ArrayList;
 import org.junit.After;
 import org.junit.AfterClass;
