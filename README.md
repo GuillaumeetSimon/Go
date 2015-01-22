@@ -1,10 +1,10 @@
 # Go2
-JEU DE GO
-Fichier GO2 
-Projet de MEDEV
+JEU DE GO <br/>
+Fichier GO2 <br/><br/>
+Projet de MEDEV<br/><br/>
 
-Julien Taillandier
-Ismail Hrimech
-Simon Levy
-Guillaume Assogba
-Merouane Hamadi
+Julien Taillandier <br/>
+Ismail Hrimech <br/>
+Simon Levy <br/>
+Guillaume Assogba <br/>
+Merouane Hamadi<br/>
